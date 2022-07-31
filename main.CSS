@@ -1,0 +1,149 @@
+*{
+    margin: 0 auto;
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+
+}
+#btn-connect{
+    width: 86px;
+    height:50px;
+
+}
+body{
+    width: 1000px;
+}
+header{
+    height: 150px;
+    margin-bottom: 3px;
+}
+header img{
+    height: 150px;
+    width: 1000px;
+}
+
+nav{
+	height: 60px;
+	background: #3300FF;
+	padding: 10px;
+	margin-top: 2px;
+}
+nav>.main{
+	width: 32%;
+    height: 50px;
+	float: left;
+	text-align: center;
+	line-height: 50px;
+	background-color: #FF4700;
+    margin-left: 10px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transition: 0.3s;
+    margin-top: 5px;
+}
+nav>.main a{
+	color: #fff;
+	text-transform: uppercase;
+    font-family: inherit;
+	font-size: 18px;
+	text-decoration: none;
+	font-weight: bolder;
+}
+nav>.main:hover{
+	background: #8d2708;
+}
+article{
+ 
+    background-color: #ededee;
+    margin-top: 5px;
+}
+article h1{
+    text-align: center;
+    color: blue;
+    font-size: 23px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    padding-top: 10px;
+}
+.form-log{
+    margin: 0 auto;
+    width: 600px;
+    text-align: left;
+    border-radius: 10px;
+    border: 3px solid rgb(153, 153, 153);
+}
+.form-group{
+    margin:10px 0px;
+    max-width: 800px;
+    margin-bottom: 35px;
+    margin-top: 20px;
+
+}
+.form-control{
+    width: 88.5%;
+    height: 33px;
+    padding-left:10px;
+    outline:none;
+    border:1px solid gray;
+    border-radius:3px;
+    margin-left: 28px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.form-group label{
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 25px;
+    margin-bottom: 30px;
+}
+.form-group legend{
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.form-group fieldset{
+    width: 89%;
+    border-radius: 5px;
+}
+.form-group textarea{
+    height: 120px;
+    padding-top: 10px;
+}
+.form-group select{
+    width: 90%;
+}
+.form-button{
+    padding:8px 30px;
+    outline:none;
+    border:none;
+    border-radius: 10px;
+    font-weight:bold;
+    background-color:white;
+    color: black;
+    font-size: 15px;
+    margin-left: 120px;
+    margin-bottom: 5px;
+    box-shadow:inset 0 0 20px orangered;
+}
+
+.form-button:hover{
+    color:red;
+    box-shadow:inset 0 0 20px blue;
+}
+.message{
+    margin-left: 30px;
+    color: red;
+
+}
+footer{
+    margin-top: 10px;
+    padding-top: 10px;
+    height: 70px;
+    background-color: #3300FF;
+    text-align: center;
+    text-transform: uppercase;
+	font-size: 15px;
+    color:  white;
+}
