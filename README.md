@@ -70,16 +70,16 @@
 <!--   <a href="https://trungquandev.com" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="dophuocdat-blog" />
   </a> -->
-  <a href="https://www.facebook.com/dpd.0512" target="blank">
+  <a href="https://www.facebook.com/hcuong886" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dophuocdat-facebook" />
   </a>
-  <a href="https://www.youtube.com/channel/UC3pBg-cuii3G-_YcW0DRaSg" target="blank">
+  <a href="https://www.youtube.com" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="dophuocdat-youtube" />
   </a>
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="dophuocdat-linkedin" />
   </a>
-  <a href="https://www.instagram.com/do_phuoc_dat/" target="blank">
+  <a href="https://www.instagram.com/_hoanggcuongg/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="dophuocdat-instagram" />
   </a>
   <a href="mailto:datdo775@gmail.com" target="top">
